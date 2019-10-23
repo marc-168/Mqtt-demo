@@ -9,6 +9,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "mosca": "^0.25.0"
+    "mosca": "^2.8.3"
   }
 }
